@@ -1,4 +1,4 @@
-package com.mani.basics.searchingtechniques;
+package com.mani.basics.searchingtechniques.linearsearch;
 import java.util.Arrays;
 import java.util.Scanner;
 
